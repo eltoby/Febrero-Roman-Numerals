@@ -1,0 +1,7 @@
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\bin\Debug\RomanNumerals.Data.dll
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\bin\Debug\RomanNumerals.Data.pdb
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\bin\Debug\RomanNumerals.Objects.dll
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\bin\Debug\RomanNumerals.Objects.pdb
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\obj\Debug\RomanNumerals.Data.dll
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Data\obj\Debug\RomanNumerals.Data.pdb

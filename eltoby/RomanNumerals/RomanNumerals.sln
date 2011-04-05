@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Logic", "RomanNumerals.Logic\RomanNumerals.Logic.csproj", "{A3FCDAB1-31B4-4A60-92D5-F8B63D51229B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Data", "RomanNumerals.Data\RomanNumerals.Data.csproj", "{E0E74485-391E-417C-89DD-BC83FCB35168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Objects", "RomanNumerals.Objects\RomanNumerals.Objects.csproj", "{1A6A329E-C543-4FFC-83EE-CEA7E9D55DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals.Test", "RomanNumerals.Test\RomanNumerals.Test.csproj", "{7691AE89-82B8-48D7-99B1-29226B78346A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FCDAB1-31B4-4A60-92D5-F8B63D51229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FCDAB1-31B4-4A60-92D5-F8B63D51229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FCDAB1-31B4-4A60-92D5-F8B63D51229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FCDAB1-31B4-4A60-92D5-F8B63D51229B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E74485-391E-417C-89DD-BC83FCB35168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E74485-391E-417C-89DD-BC83FCB35168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E74485-391E-417C-89DD-BC83FCB35168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E74485-391E-417C-89DD-BC83FCB35168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6A329E-C543-4FFC-83EE-CEA7E9D55DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6A329E-C543-4FFC-83EE-CEA7E9D55DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6A329E-C543-4FFC-83EE-CEA7E9D55DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6A329E-C543-4FFC-83EE-CEA7E9D55DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7691AE89-82B8-48D7-99B1-29226B78346A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7691AE89-82B8-48D7-99B1-29226B78346A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7691AE89-82B8-48D7-99B1-29226B78346A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7691AE89-82B8-48D7-99B1-29226B78346A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

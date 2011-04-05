@@ -1,0 +1,11 @@
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Test.exe
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Test.pdb
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Logic.dll
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Objects.dll
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Data.dll
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Objects.pdb
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Data.pdb
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\bin\Debug\RomanNumerals.Logic.pdb
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\obj\Debug\RomanNumerals.Test.exe
+C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Test\obj\Debug\RomanNumerals.Test.pdb
