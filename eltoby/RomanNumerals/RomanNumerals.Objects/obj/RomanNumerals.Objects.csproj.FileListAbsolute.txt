@@ -1,5 +1,0 @@
-C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Objects\bin\Debug\RomanNumerals.Objects.dll
-C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Objects\bin\Debug\RomanNumerals.Objects.pdb
-C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Objects\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Objects\obj\Debug\RomanNumerals.Objects.dll
-C:\Users\root\12Katas\Febrero-Roman-Numerals\eltoby\RomanNumerals\RomanNumerals.Objects\obj\Debug\RomanNumerals.Objects.pdb
